@@ -7,6 +7,9 @@ A idea list which is planned to be implemented is given here : https://medium.co
 ## TOdolist
 
 [ ] Add transfer learning for Image classification models
+
 [ ] Add garden viewer feature
+
 [ ] Add more dataset 
+
 [ ] Portal for connecting seller
