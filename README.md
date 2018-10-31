@@ -1,4 +1,4 @@
-# Plantcrypto-recongniser
+# Plantcrypto-recogniser
 
 Going to be big soon. 
 
